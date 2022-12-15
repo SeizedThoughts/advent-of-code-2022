@@ -53,3 +53,4 @@ for x, y in hits:
             break
     if f:
         print(x * 4000000 + y)
+        break
